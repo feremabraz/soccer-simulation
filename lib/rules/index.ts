@@ -1,2 +1,2 @@
-export * from './match-rules'
-export * from './offside-rule'
+export * from './match-rules';
+export * from './offside-rule';

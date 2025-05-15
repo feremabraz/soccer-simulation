@@ -1,6 +1,5 @@
 'use client';
 
-import type * as React from 'react';
 import {
   ArrowUpCircleIcon,
   BarChartIcon,
@@ -18,6 +17,7 @@ import {
   SettingsIcon,
   UsersIcon,
 } from 'lucide-react';
+import type * as React from 'react';
 
 import { NavDocuments } from '@/components/nav-documents';
 import { NavMain } from '@/components/nav-main';

@@ -1,2 +1,2 @@
-export * from './match-engine'
-export * from './match-state'
+export * from './match-engine';
+export * from './match-state';

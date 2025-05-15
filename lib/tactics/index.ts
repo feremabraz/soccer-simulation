@@ -1,2 +1,2 @@
-export * from './formation-system'
-export * from './substitution-system'
+export * from './formation-system';
+export * from './substitution-system';
